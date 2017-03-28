@@ -35,23 +35,18 @@
 		</evank_link>
 		<jack_link>
 			<h3>
-				<a href="jack/view.html">Jack M<a>
+				<a href="jack/view.html">Jack<a>
 			</h3>
 		</jack_link>
 		<jake_link>
 			<h3>
-				<a href="jake/view.html">Jake H</a>
+				<a href="jake/view.html">Jake</a>
 			</h3>
 		</jake_link>
 		<noah_link>
 			<h3>
-				<a href="noah/view.html">Noah T</a>
+				<a href="noah/view.html">Noah</a>
 			</h3>
 		</noah_link>
-		<page_copyright>
-			<h2><u><i>
-				Page made by Michael Geraghty 2017 (c)
-			</h2></u></i>
-		</page_copyright>
 	</body>
 </html>
